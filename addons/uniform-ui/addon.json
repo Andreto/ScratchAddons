@@ -1,0 +1,17 @@
+{
+  "name": "Uniform UI",
+  "description": "Makes Ui uniformed throughot scratch",
+  "credits": [
+    {
+      "name": "Andreto"
+    }
+  ],
+  "userstyles": [
+    {
+      "url": "uniform-ui.css",
+      "matches": ["https://scratch.mit.edu/users/*"]
+    }
+  ],
+  "tags": ["theme"],
+  "enabled_by_default": false
+}
