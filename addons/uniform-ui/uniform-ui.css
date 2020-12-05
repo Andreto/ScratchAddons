@@ -1,5 +1,5 @@
-body {
-  background: #fff;
+body, .pagewraper {
+  background: #fcfcfc;
 }
 
 #topnav {
@@ -49,4 +49,15 @@ body {
   height: 40px;
   background-color: #4588e5;
   padding: 0px 4px 0px 33px;
+}
+
+.box{
+  border-radius: 10px;
+  background-color: #fff
+}
+.box-content{
+  border-radius: 10px;
+}
+.box-header, .box .box-head{
+
 }
